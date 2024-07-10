@@ -1,7 +1,7 @@
 
 ```markdown
 # ResumatAI
-![ResumatAI Logo](client/public/Screenshot2024-07-10at02.17.03.png)
+client/public/Screenshot2024-07-10at02.17.03.png
 ResumatAI is a web application designed to grade resumes using the OpenAI API. It provides users with insights and feedback on resume quality based on advanced natural language processing (NLP) techniques.
 
 ## Features
