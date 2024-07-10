@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For questions or inquiries about ResumatAI, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For questions or inquiries about ResumatAI, feel free to contact us at [somamasiddiqui11@gmail.com](mailto:somamasiddiqui11@gmail.com).
 ```
 
 This `README.md` template provides comprehensive information about ResumatAI, including setup instructions, technology stack, features, and how to contribute. Adjust the details as per your project's specifics and preferences.
