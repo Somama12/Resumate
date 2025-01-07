@@ -52,7 +52,7 @@ To get started with ResumatAI, follow these steps:
 
 ## Technologies Used
 
-- **Frontend:** React.js, HTML/CSS, Bootstrap (or your preferred frontend framework)
+- **Frontend:** React.js, HTML/CSS, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (or your preferred database)
 - **API:** OpenAI API for resume grading
