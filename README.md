@@ -54,7 +54,7 @@ To get started with ResumatAI, follow these steps:
 
 - **Frontend:** React.js, HTML/CSS, TailwindCSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (or your preferred database)
+- **Database:** MongoDB 
 - **API:** OpenAI API for resume grading
 
 ## Contributing
